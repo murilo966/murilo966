@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilo966&show_icons=true&theme=transparent)
 
-## Linguagens de programação
+## Linguagens e Ferramentas
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo966&layout=compact)<br/>
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
