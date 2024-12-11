@@ -7,17 +7,18 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilo966&show_icons=true&theme=transparent)
 
 ## Linguagens de programação
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo966&layout=compact)<br>
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo966&layout=compact)<br/>
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br/>
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br/>
+![React](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 Apaixonado por programação e desenvolvimento web, busco sempre aprender e me aperfeiçoar.
 
 ## Últimos projetos
--
--
--
+- [ResgatPet](https://github.com/murilo966/ResgatPet?tab=readme-ov-file)
+- [InterX](https://github.com/clerisonbueno/senacapp)
+- [PsicoFocus](https://github.com/murilo966/PsicoFocus)
