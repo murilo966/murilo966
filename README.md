@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Murilo de Sousa 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-de-sousa-361287332/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/murilo966)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mur.ilosousa/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilo966&show_icons=true&theme=transparent)
