@@ -19,21 +19,21 @@
     </a>
 </p>
 
-<div>
+<div style="margin-bottom:200px">
     <img
     align="left"
     alt="GitHub Stats"
     height="200"
-    style="padding-right: 10;"
+    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=murilo966&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     />
     <img
         align="left"
         alt="GitHub Stats"
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo966&theme=tokyonight&layout=compact&custom_title=Tecnologias Recentes&langs_count=9"
-    />
-</div>
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo966&layout=compact&theme=tokyonight&include_all_commits=true&locale=pt-br&langs_count=6"
+    /></br>
+</div></br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-de-sousa-361287332/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/murilo966)
@@ -53,3 +53,4 @@
 - ### [ResgatPet](https://github.com/murilo966/ResgatPet?tab=readme-ov-file)
 - ### [InterX](https://github.com/clerisonbueno/senacapp)
 - ### [PsicoFocus](https://github.com/murilo966/PsicoFocus)
+
