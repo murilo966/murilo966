@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Murilo de Sousa 
 **` Desenvolvedor FullStack `**
 
-</br>
-Perfil :
+
+ <p style="font-size:20px;">🙎🏻 Perfil :</p>
 <p align="left">
     <a href="https://github.com/murilo966?tab=repositories&sort=stargazers">
         <img 
@@ -19,7 +19,7 @@ Perfil :
         />
     </a>
 </p>
-Contato :
+<p style="font-size:20px;">📶 Contato :</p>
 <div>
     
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-de-sousa-361287332/)
