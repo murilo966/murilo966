@@ -15,8 +15,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br/>
 ![React](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-Apaixonado por programação e desenvolvimento web, busco sempre aprender e me aperfeiçoar.
-
 ## Últimos projetos
 - [ResgatPet](https://github.com/murilo966/ResgatPet?tab=readme-ov-file)
 - [InterX](https://github.com/clerisonbueno/senacapp)
