@@ -19,7 +19,7 @@
     </a>
 </p>
 
-<div style="margin-bottom:200px">
+<p style="margin-bottom: 55%;">
     <img
     align="left"
     alt="GitHub Stats"
@@ -32,8 +32,8 @@
         alt="GitHub Stats"
         height="200"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo966&layout=compact&theme=tokyonight&include_all_commits=true&locale=pt-br&langs_count=6"
-    /></br>
-</div></br>
+    />
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-de-sousa-361287332/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/murilo966)
