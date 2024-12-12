@@ -19,7 +19,7 @@
     </a>
 </p>
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; margin-bottom: 60px;">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; padding-bottom: 60px;">
     <img alt="GitHub Stats" height="190" src="https://github-readme-stats.vercel.app/api?username=murilo966&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
     <img alt="GitHub Stats" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo966&layout=compact&theme=tokyonight&include_all_commits=true&locale=pt-br&langs_count=6"/>
 </div>
