@@ -19,7 +19,7 @@
     </a>
 </p>
 
-<p style="margin-bottom: 55%;">
+<p style="">
     <img
     align="left"
     alt="GitHub Stats"
