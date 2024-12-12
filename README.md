@@ -19,9 +19,9 @@
     </a>
 </p>
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; margin-bottom: 20;">
-    <img alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=murilo966&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-    <img alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo966&layout=compact&theme=tokyonight&include_all_commits=true&locale=pt-br&langs_count=6"/>
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; margin-bottom: 40;">
+    <img alt="GitHub Stats" height="170" src="https://github-readme-stats.vercel.app/api?username=murilo966&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+    <img alt="GitHub Stats" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo966&layout=compact&theme=tokyonight&include_all_commits=true&locale=pt-br&langs_count=6"/>
 </div>
 
 
